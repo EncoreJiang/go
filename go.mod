@@ -1,3 +1,3 @@
-module github.com/ugorji/go
+module github.com/hashicorp/go-msgpack
 
-require github.com/ugorji/go/codec v1.1.7
+require github.com/hashicorp/go-msgpack/codec v2.1.8
