@@ -1,5 +1,5 @@
-module github.com/ugorji/go/codec
+module github.com/hashicorp/go-msgpack/codec
 
 require (
-github.com/ugorji/go v1.1.7
+  github.com/hashicorp/go-msgpack v1.3.2
 )
